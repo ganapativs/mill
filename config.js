@@ -1,4 +1,4 @@
-{   
+window.MillConfig = {   
     // Blog title
     title: 'ganapativs.github.io',
     // Blog description
